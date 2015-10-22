@@ -1,0 +1,20 @@
+{
+    "res/drawable-hdpi/ic_drawer.png": "5e84520e4b8df21c098837e9186ad810", 
+    "res/drawable-hdpi/ic_launcher.png": "d0cec7c8cda5327b8a17b8980bcc88eb", 
+    "res/drawable-mdpi/ic_drawer.png": "8613e5d63a9cf9e7aacaded70877935b", 
+    "res/drawable-mdpi/ic_launcher.png": "0ae8d7c003efea5db2c7f22c86b2cf0c", 
+    "res/drawable-xhdpi/adward_background.png": "e7739e0347545967db196806833d8410", 
+    "res/drawable-xhdpi/ic_drawer.png": "45ae81b686dc793ded957dcd9d5d589b", 
+    "res/drawable-xhdpi/ic_launcher.png": "c8512e924b6c291b04015e15e90e9768", 
+    "res/drawable-xhdpi/not_used_in_activity_library_activity_jar.png": "b3e0fe64b7d214b33c0d83287984c00d", 
+    "res/drawable-xhdpi/not_used_in_activity_library_layout_jar.png": "7f6d2438d0a04ad4588780cf53ecee41", 
+    "res/drawable-xhdpi/not_used_in_activity_main_activity.png": "58ba1f75e64ec660ae6caf4b61f8c3b4", 
+    "res/drawable-xhdpi/not_used_in_activity_main_layout.png": "f3474431f0d4638d1bc508d0ab561848", 
+    "res/drawable-xhdpi/used_in_activity_library_activity_jar.png": "b3e0fe64b7d214b33c0d83287984c00d", 
+    "res/drawable-xhdpi/used_in_activity_library_layout_jar.png": "7f6d2438d0a04ad4588780cf53ecee41", 
+    "res/drawable-xhdpi/used_in_activity_main_activity.png": "58ba1f75e64ec660ae6caf4b61f8c3b4", 
+    "res/drawable-xhdpi/used_in_activity_main_layout.png": "f3474431f0d4638d1bc508d0ab561848", 
+    "res/drawable-xxhdpi/ic_drawer.png": "78fb1a88520c5b9f483931a14c09415d", 
+    "res/drawable-xxhdpi/ic_launcher.png": "bc173515eb4a02a1047cafd53ce0f6d0", 
+    "res/drawable-xxhdpi/surprise_background_window.jpg": "f94212b5bdbd2c76d5e4a0c58e3cacc1"
+}
